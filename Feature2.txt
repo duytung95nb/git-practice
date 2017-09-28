@@ -1,3 +1,5 @@
 Tính nang d?u tiên c?a feature 2
 Tính nang th? 2 c?a feature 2
 Tính nang th? 3 c?a feature 2
+
+Phat trien them feature 2
