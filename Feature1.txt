@@ -1,4 +1,5 @@
 Ch?c nang 1
 Feature 1 phát tri?n thêm
 Ch?c nang con c?a feature 1
+Ch?c nang con c?a feature 1
 Ch?c nang con th? 2 c?a feature 1
