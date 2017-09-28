@@ -4,3 +4,4 @@ public class Main (string[] args) {
 		A a = new A();
 	}
 }
+Thêm 1 phát vào nhánh master
