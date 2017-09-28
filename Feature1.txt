@@ -1,2 +1,3 @@
 Ch?c nang 1
 Ch?c nang con c?a feature 1
+Ch?c nang con th? 2 c?a feature 1
