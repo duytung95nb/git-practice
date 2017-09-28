@@ -11,3 +11,4 @@ Develop phát tri?n thêm 1 tính nang n?a
 Phát tri?n thêm tính nang n?a, sau khi tách feature 2
 Develop phát tri?n tính nang cu?i cùng
 Tinh nang thu 10 cua develop
+Sau khi feature 2 rebased c?a develop
