@@ -1,0 +1,6 @@
+
+public class Main (string[] args) {
+	public static void main() {
+		A a = new A();
+	}
+}
